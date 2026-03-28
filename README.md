@@ -1,16 +1,17 @@
 # C Programming Assignments
 
-This repository contains my school assignments for learning and practicing the C programming language.
+This repository contains my school assignments for learning and practicing the C programming language for the 1st semester at Mechi Multiple Campus.
 
 ## 📚 Contents
 
-- Basic C programs
-- Control structures (if/else, loops)
-- Functions
-- Arrays and strings
-- Pointers
-- File handling
-- Other problem-solving exercises
+- Lab1: Basic C programs
+- Lab2: Control structure (if/else)
+- Lab3: Control structure (Loop) 
+- Lab4: Arrays
+- Lab5: Strings
+- Lab6: Functions
+- Lab7: Structures
+- Lab8: File handling
 
 ## 🎯 Purpose
 
@@ -23,12 +24,12 @@ The goal of this repository is to:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/subinlearns/c-assignments
    ```
 
 2. Navigate to the project folder:
     ```bash
-    cd lab1
+    cd <Folder-Name> 
     ```
 
 3. Compile the C program:
